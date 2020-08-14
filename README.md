@@ -1,6 +1,5 @@
 # About-me
-Hello there. I am <span style="background-color:#00FEFE">Gokulesh!</span>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ;
+Hello there. I am **Gokulesh!**  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 <p>
-I’m currently pursuing my third year of Bachelor's degree in Computer Science Engineering at [@VCET](https://vcet.ac.in/)
-  </p>
+I’m currently pursuing my third year of Bachelor's degree in Computer Science Engineering at **VCET**
 
