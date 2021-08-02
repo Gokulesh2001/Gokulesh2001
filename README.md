@@ -54,7 +54,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulesh2001&show_icons=true&theme=midnight-purple" alt="Gokulesh2001" /></p>
 
 
-  
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulesh2001&show_icons=true&locale=en" alt="gokuleshka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulesh2001&" alt="gokuleshka" /></p>
 
