@@ -51,11 +51,11 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulesh2001&layout=compact&theme=midnight-purple" alt="Gokulesh2001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulesh2001&show_icons=true&theme=midnight-purple" alt="Gokulesh2001" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulesh2001&show_icons=true&locale=en" alt="gokuleshka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulesh2001&" alt="gokuleshka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokulesh2001&show_icons=true&locale=en" alt="Gokulesh2001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gokulesh2001&" alt="Gokulesh2001" /></p>
 
